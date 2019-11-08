@@ -8,4 +8,4 @@ Source code provided by Mozilla Developer Network
 ## Accessibility Issues Addressed
 ### Color
 The text is difficult to read because of the current color contrast.
-![alt text](media\ColorExBeforeChange.png)
+![alt text](media/ColorExBeforeChange.png)
