@@ -20,18 +20,18 @@ body {
 
 font[size="7"], font[size="6"], font[size="5"] {
   font-family: 'Sonsie One', cursive;
-  color: #2a2a2a;
+  color: #002a00;
 }
 
 p, input, li, table, label {
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #2a2a2a;
+  color: #002a00;
 }
 
 font[size="7"] {
   font-size: 4rem;
   text-align: center;
-  color: white;
+  color: #002a00;
   text-shadow: 2px 2px 10px black;
 }
 
@@ -52,7 +52,7 @@ p, li, table {
 /* || header layout */
 
 div[class="nav"], article, footer, .secondary {
-  background-color: green;
+  background-color: #a5ffff;
 }
 
 article, footer, .secondary {
